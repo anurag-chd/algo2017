@@ -15,6 +15,7 @@ public class CircularTour {
 		}
 		
 		System.out.println(tour(petrol,distance));
+		System.out.println();
 	}
 	
 	
